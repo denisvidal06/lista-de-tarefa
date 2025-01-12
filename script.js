@@ -5,14 +5,14 @@ function listar() {
 
 
   if (txtTarefa.value == '') {
-    alert('Insira a Sua Tarefa')
+    alert('Insira a tarefa')
   } else {
 
     let li = document.createElement('li');
 
     let textoTarefa = document.createElement('span');
     textoTarefa.textContent = txtTarefa.value;
-    textoTarefa.style.fontWeight = "600";
+    textoTarefa.style.fontWeight = "800";
     textoTarefa.style.textAlign = 'center';
 
 
@@ -32,8 +32,8 @@ function listar() {
     btn.style.backgroundColor = 'red';
     btn.style.border = "none"
     btn.style.borderRadius = '5px';
-    btn.style.padding = "5px"
-    btn.style.marginLeft = '10px'
+    btn.style.padding = "2px"
+    btn.style.marginLeft = '5px'
     btn.style.cursor = 'pointer'
 
     btn.addEventListener('click', () => {
@@ -45,9 +45,16 @@ function listar() {
     li.appendChild(btn);
 
 
+
+
+
+
+
     resultado.appendChild(li);
 
     txtTarefa.value = "";
     txtTarefa.focus();
+
+
   }
 }

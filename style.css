@@ -7,7 +7,7 @@
 }
 
 body {
-  border: #bed4c9;
+  background-color: #bed4c9;
 }
 
 main {
@@ -23,6 +23,7 @@ main {
 .lista {
   border-radius: 10px;
   width: 400px;
+  height: 400px;
   background-color: #80a6cc;
   padding: 15px 20px;
 }
@@ -55,15 +56,15 @@ main {
   color: #fff;
   width: 50%;
   cursor: pointer;
-  margin-left: 3px;
+  margin-left: 5px;
 }
 
 .resultado {
-  margin-top: 60px;
+  margin-top: 50px;
   background-color: #fff;
   border-radius: 5px;
   overflow: auto;
-  height: 300px;
+  height: 250px;
 }
 
 ol {
