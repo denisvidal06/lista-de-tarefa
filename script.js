@@ -33,7 +33,7 @@ function listar() {
     btn.style.border = "none"
     btn.style.borderRadius = '5px';
     btn.style.padding = "2px"
-    btn.style.marginLeft = '5px'
+    btn.style.marginLeft = '100px'
     btn.style.cursor = 'pointer'
 
     btn.addEventListener('click', () => {
