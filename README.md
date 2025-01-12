@@ -1,6 +1,6 @@
 # Lista de Tarefas 📝😊
 
-Mais um projeto, mais uma prática, a famosa "mão na massa", mais um desafio que me propus a fazer e testar minhas habilidades e conhecimento em front-end, houve momentos que senti dificuldades, mas fui persistindo e pesquisando,e no fim deu tudo certo e me trouxe mais confiança na hora de codar. O projeto é simples, porém funcional.
+Mais um projeto, mais uma prática, a famosa "mão na massa", mais um desafio que me propus a fazer e testar minhas habilidades e conhecimento em front-end, houve momentos que senti dificuldades, mas fui persistindo e pesquisando, e no fim deu tudo certo e me trouxe mais confiança na hora de codar. O projeto é simples, porém funcional.
 
 <img src="src/Animação.gif" alt="imagem do projeito">
 
