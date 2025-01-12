@@ -7,11 +7,11 @@
 }
 
 body {
-  background-color: #bed4c9;
+  background-color: #5e5b5bad;
 }
 
 main {
-  height: 500px;
+  height: 600px;
 }
 
 .container {
@@ -21,11 +21,11 @@ main {
 }
 
 .lista {
-  border-radius: 10px;
+  border-radius: 20px;
   width: 400px;
   height: 400px;
-  background-color: #80a6cc;
-  padding: 15px 20px;
+  background-color: #5e5b5bad;
+  padding: 20px 15px;
 }
 
 .lista h2 {
@@ -43,7 +43,7 @@ main {
   border-radius: 5px;
   border: none;
   padding: 5px;
-  width: 100%;
+  width: 70%;
   outline: none;
 }
 
